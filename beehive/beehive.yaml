@@ -1,4 +1,8 @@
-DHT Sensor:
+sensors:
+        dht:
+                pin: 23
+                type: 22
+        adc:
 DHT22
 Pin 23
 

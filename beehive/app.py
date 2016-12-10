@@ -21,7 +21,7 @@ def data():
 def add_data():
     post_data = json.loads(request.data.decode("utf-8"))
     parse_data(post_data)
-    return jsonify({"hi": 3})
+    return jsonify({"Thank you!": 0})
 
 def parse_data(data):
     if isinstance(data, dict):

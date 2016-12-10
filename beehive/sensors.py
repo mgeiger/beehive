@@ -6,6 +6,7 @@ import time
 import requests
 import json
 from math import pow
+import logging
 
 DHT_TYPE = 22
 DHT_GPIO = 23
@@ -16,6 +17,22 @@ URI = 'http://192.168.0.5:5000/add'
 
 adc = Adafruit_ADS1x15.ADS1115()
 sensor = BMP.BMP085()
+
+class sensor:
+    self.last_value = None
+
+    def __init__():
+        self.last_acquire = time.now()
+
+    def get_value():
+        return self.last_value
+
+    def get_unit():
+        return "N/A"
+
+
+def dht_sensor(sensor):
+
 
 def acquire_dht():
     return Adafruit_DHT.read_retry(DHT_TYPE, DHT_GPIO)
