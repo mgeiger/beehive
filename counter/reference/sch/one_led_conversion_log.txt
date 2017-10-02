@@ -1,0 +1,95 @@
+#********** START OF renumber-sheet.ulp ULP Version 4.4.4 12-02-2017 :16:11:16 LOG **********#
+#OldRef				SheetNumber	NewRef
+1A				1	1A31
+1B				1	1B31
+2A				1	2A31
+2B				1	2B31
+3A				1	3A31
+3B				1	3B31
+4A				1	4A31
+4B				1	4B31
+5A				1	5A31
+5B				1	5B31
+6A				1	6A31
+6B				1	6B31
+7A				1	7A31
+7B				1	7B31
+8A				1	8A31
+8B				1	8B31
+9A				1	9A31
+9B				1	9B31
+10A				1	10A31
+10B				1	10B31
+11A				1	11A31
+11B				1	11B31
+12A				1	12A31
+12B				1	12B31
+45R_				1	45R_31
+100K				1	100K31
+100K-				1	100K-31
+100K_				1	100K_31
+VCC				1	VCC31
+#********** END OF renumber-sheet.ulp ULP Version 4.4.4 12-02-2017 :16:11:16 LOG **********#
+
+#********** START OF fix_via_hack.ulp ULP Version 4.6.0 12-02-2017 :16:12:04 LOG **********#
+#********** END OF fix_via_hack.ulp ULP Version 4.6.0 12-02-2017 :16:12:04 LOG **********#
+
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 1.9 12-02-2017 :16:39:44 LOG **********#
+Device Name Conflict: Device=M06_BEE from Internal SCH lib=Bee Counter 3  With Device=M06_BEE from LIB=Bee
+Device Name Conflict: Device=RESISTOR-ARRAY_BUSSED from Internal SCH lib=Bee Counter 3  With Device=RESISTOR-ARRAY_BUSSED from LIB=Bee
+Symbol Name Conflict: Symbol=M06_BEE from Internal SCH lib=Bee Counter 3  With Symbol=M06_BEE from LIB=Bee
+Symbol Name Conflict: Symbol=RESISTOR_ARRAY from Internal SCH lib=Bee Counter 3  With Symbol=RESISTOR_ARRAY from LIB=Bee
+Package Name Conflict: Package=1X06_BEE from Internal SCH lib=Bee Counter 3  With Package=1X06_BEE from LIB=Bee
+Package Name Conflict: Package=1608_ARRAY from Internal SCH lib=Bee Counter 3  With Package=1608_ARRAY from LIB=Bee
+Device Name Conflict: Device=M01-SMTSO-256-ET from Internal SCH lib=OMSI - ADN  With Device=M01-SMTSO-256-ET from LIB=OMSI
+Device Name Conflict: Device=M01ADN from Internal SCH lib=OMSI - ADN  With Device=M01ADN from LIB=OMSI
+Device Name Conflict: Device=M01ADN2 from Internal SCH lib=OMSI - ADN  With Device=M01ADN2 from LIB=OMSI
+Device Name Conflict: Device=M01OFFSET from Internal SCH lib=OMSI - ADN  With Device=M01OFFSET from LIB=OMSI
+Device Name Conflict: Device=M01POGOPIN_HOLE_0.58 from Internal SCH lib=OMSI - ADN  With Device=M01POGOPIN_HOLE_0.58 from LIB=OMSI
+Device Name Conflict: Device=M01POGOPIN_HOLE_LARGE from Internal SCH lib=OMSI - ADN  With Device=M01POGOPIN_HOLE_LARGE from LIB=OMSI
+Device Name Conflict: Device=M01PTH from Internal SCH lib=OMSI - ADN  With Device=M01PTH from LIB=OMSI
+Device Name Conflict: Device=M01PTH_2MM from Internal SCH lib=OMSI - ADN  With Device=M01PTH_2MM from LIB=OMSI
+Device Name Conflict: Device=M01PTH_LONGPAD from Internal SCH lib=OMSI - ADN  With Device=M01PTH_LONGPAD from LIB=OMSI
+Device Name Conflict: Device=M01SMD from Internal SCH lib=OMSI - ADN  With Device=M01SMD from LIB=OMSI
+Device Name Conflict: Device=M01SMD-4.5X1.5 from Internal SCH lib=OMSI - ADN  With Device=M01SMD-4.5X1.5 from LIB=OMSI
+Device Name Conflict: Device=M01SMDNS from Internal SCH lib=OMSI - ADN  With Device=M01SMDNS from LIB=OMSI
+Device Name Conflict: Device=M01SMTRA-256-8-6 from Internal SCH lib=OMSI - ADN  With Device=M01SMTRA-256-8-6 from LIB=OMSI
+Device Name Conflict: Device=M01SNAP-FEMALE from Internal SCH lib=OMSI - ADN  With Device=M01SNAP-FEMALE from LIB=OMSI
+Device Name Conflict: Device=M01SNAP-MALE from Internal SCH lib=OMSI - ADN  With Device=M01SNAP-MALE from LIB=OMSI
+Device Name Conflict: Device=M01TT from Internal SCH lib=OMSI - ADN  With Device=M01TT from LIB=OMSI
+Device Name Conflict: Device=M01XX from Internal SCH lib=OMSI - ADN  With Device=M01XX from LIB=OMSI
+Device Name Conflict: Device=M01XXX from Internal SCH lib=OMSI - ADN  With Device=M01XXX from LIB=OMSI
+Symbol Name Conflict: Symbol=M01 from Internal SCH lib=OMSI - ADN  With Symbol=M01 from LIB=OMSI
+Package Name Conflict: Package=1X01 from Internal SCH lib=OMSI - ADN  With Package=1X01 from LIB=OMSI
+Package Name Conflict: Package=1X01-16GAUGE from Internal SCH lib=OMSI - ADN  With Package=1X01-16GAUGE from LIB=OMSI
+Package Name Conflict: Package=1X01-BOLT_HOLE from Internal SCH lib=OMSI - ADN  With Package=1X01-BOLT_HOLE from LIB=OMSI
+Package Name Conflict: Package=1X01-LARGE_PAD from Internal SCH lib=OMSI - ADN  With Package=1X01-LARGE_PAD from LIB=OMSI
+Package Name Conflict: Package=1X01-PLAIN from Internal SCH lib=OMSI - ADN  With Package=1X01-PLAIN from LIB=OMSI
+Package Name Conflict: Package=1X01NS from Internal SCH lib=OMSI - ADN  With Package=1X01NS from LIB=OMSI
+Package Name Conflict: Package=1X01_2MM from Internal SCH lib=OMSI - ADN  With Package=1X01_2MM from LIB=OMSI
+Package Name Conflict: Package=1X01_CRIMP from Internal SCH lib=OMSI - ADN  With Package=1X01_CRIMP from LIB=OMSI
+Package Name Conflict: Package=1X01_LONGPAD from Internal SCH lib=OMSI - ADN  With Package=1X01_LONGPAD from LIB=OMSI
+Package Name Conflict: Package=1X01_OFFSET from Internal SCH lib=OMSI - ADN  With Package=1X01_OFFSET from LIB=OMSI
+Package Name Conflict: Package=1X01_POGOPIN_HOLE_0.58 from Internal SCH lib=OMSI - ADN  With Package=1X01_POGOPIN_HOLE_0.58 from LIB=OMSI
+Package Name Conflict: Package=1X01_POGOPIN_HOLE_LARGE from Internal SCH lib=OMSI - ADN  With Package=1X01_POGOPIN_HOLE_LARGE from LIB=OMSI
+Package Name Conflict: Package=LUXEON-PAD from Internal SCH lib=OMSI - ADN  With Package=LUXEON-PAD from LIB=OMSI
+Package Name Conflict: Package=PAD-1.5X4.5 from Internal SCH lib=OMSI - ADN  With Package=PAD-1.5X4.5 from LIB=OMSI
+Package Name Conflict: Package=SMTRA-256-8-6 from Internal SCH lib=OMSI - ADN  With Package=SMTRA-256-8-6 from LIB=OMSI
+Package Name Conflict: Package=SMTSO-256-ET from Internal SCH lib=OMSI - ADN  With Package=SMTSO-256-ET from LIB=OMSI
+Package Name Conflict: Package=SNAP-FEMALE from Internal SCH lib=OMSI - ADN  With Package=SNAP-FEMALE from LIB=OMSI
+Package Name Conflict: Package=SNAP-MALE from Internal SCH lib=OMSI - ADN  With Package=SNAP-MALE from LIB=OMSI
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 1.9 12-02-2017 :16:39:44 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.6 12-02-2017 :16:39:52 LOG **********#
+OK: Eagle lib export from SCH/PCB OK
+    Conversion completed with no Messages
+#********** END OF exp-lbrs.ulp 6.6 12-02-2017 :16:39:52 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.7 12-02-2017 :16:40:11 LOG **********#
+Missing Prefix Part =''				BEE-COUNTER-3_1X06_BEE					one_led		M
+Missing Prefix Part =''				BEE-COUNTER-3_1608_ARRAY					one_led		M
+Missing Prefix Part =QA				BEECOUNTER2_QRE1113					one_led		M
+Missing Prefix Part =D				SPARKFUN-DIGITALIC_SO16					one_led		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.7 12-02-2017 :16:40:11 LOG **********#
+

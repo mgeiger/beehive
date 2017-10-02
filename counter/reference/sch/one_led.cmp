@@ -1,0 +1,381 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /58A0D68B;
+Reference = 1A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0D753;
+Reference = 1B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0D81B;
+Reference = 2.1;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0D8E3;
+Reference = 2.2;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0D9AB;
+Reference = 2.4;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DA73;
+Reference = 2.5;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DB3B;
+Reference = 2.6;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DC03;
+Reference = 2.7;
+ValeurCmp = M01ADN;
+IdModule  = OMSI;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DCCB;
+Reference = 2A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DD93;
+Reference = 2B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DE5B;
+Reference = 3A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DF23;
+Reference = 3B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0DFEB;
+Reference = 4A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E0B3;
+Reference = 4B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E17B;
+Reference = 5A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E243;
+Reference = 5B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E30B;
+Reference = 6A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E3D3;
+Reference = 6B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E49B;
+Reference = 7A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E563;
+Reference = 7B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E62B;
+Reference = 8A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E6F3;
+Reference = 8B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E7BB;
+Reference = 9A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E883;
+Reference = 9B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0E94B;
+Reference = 10A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EA13;
+Reference = 10B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EADB;
+Reference = 11A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EBA3;
+Reference = 11B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EC6B;
+Reference = 12A31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0ED33;
+Reference = 12B31;
+ValeurCmp = QRE1113QA;
+IdModule  = BEECOUNTER2_QRE1113;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EDFB;
+Reference = 45R_31;
+ValeurCmp = RESISTOR-ARRAY_BUSSED;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EEC3;
+Reference = 100K-31;
+ValeurCmp = RESISTOR-ARRAY_BUSSED;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0EF8B;
+Reference = 100K31;
+ValeurCmp = RESISTOR-ARRAY_BUSSED;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F053;
+Reference = 100K_31;
+ValeurCmp = RESISTOR-ARRAY_BUSSED;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0D628;
+Reference = 165-1;
+ValeurCmp = 74165D;
+IdModule  = SPARKFUN-DIGITALIC_SO16;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F180;
+Reference = 165-2;
+ValeurCmp = 74165D;
+IdModule  = SPARKFUN-DIGITALIC_SO16;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F248;
+Reference = 165-3;
+ValeurCmp = 74165D;
+IdModule  = SPARKFUN-DIGITALIC_SO16;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F310;
+Reference = C-597_3;
+ValeurCmp = C-EUC0603;
+IdModule  = RESISTOR_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F3D8;
+Reference = C1-597_1;
+ValeurCmp = C-EUC0603;
+IdModule  = RESISTOR_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0F4A0;
+Reference = C15-597_2;
+ValeurCmp = C-EUC0603;
+IdModule  = RESISTOR_C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FB44;
+Reference = U$1;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FC0C;
+Reference = U$2;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FCD4;
+Reference = U$3;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FD9C;
+Reference = U$4;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FE64;
+Reference = U$5;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FF2C;
+Reference = U$6;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A0FFF4;
+Reference = U$7;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A100BC;
+Reference = U$8;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A10184;
+Reference = U$9;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A1024C;
+Reference = U$10;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A10314;
+Reference = U$11;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A103DC;
+Reference = U$12;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A104A4;
+Reference = U$13;
+ValeurCmp = M06_BEE;
+IdModule  = BEE;
+EndCmp
+
+BeginCmp
+TimeStamp = /58A1056C;
+Reference = VCC31;
+ValeurCmp = SJ;
+IdModule  = JUMPER_SJ;
+EndCmp
+
+EndListe
