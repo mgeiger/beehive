@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Setup the Packages properly
 # Copy over the start scripts
 # Move the files to the /opt/beehive directory
