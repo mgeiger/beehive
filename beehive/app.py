@@ -39,6 +39,7 @@ def parse_data(data):
         except KeyError:
             app.logger.error('Failed to find key in JSON')
     else:
+        app.logger.warn('Data is not in the form of dict. Type: {}'.format(type(data)))
         return None
 
 if __name__ == '__main__':
